@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_live/static/css/main.34542476.css",
+    "main.js": "/react_live/static/js/main.d46f7246.js",
+    "static/js/787.4aad1aee.chunk.js": "/react_live/static/js/787.4aad1aee.chunk.js",
+    "static/media/Artificial Intelligence.png": "/react_live/static/media/Artificial Intelligence.05184cf5f5f3d9f99b6e.png",
+    "static/media/Programming.png": "/react_live/static/media/Programming.0bf799fe1f5f79814d30.png",
+    "static/media/Young Stars Mission.png": "/react_live/static/media/Young Stars Mission.a917095ac52de2dd5eb7.png",
+    "static/media/Robotics.png": "/react_live/static/media/Robotics.f03310bb43f7e8d1977f.png",
+    "static/media/Technical Development.png": "/react_live/static/media/Technical Development.04011b3c1f3fb8f7494d.png",
+    "static/media/websiteLogo.png": "/react_live/static/media/websiteLogo.385420744b772df2dddc.png",
+    "static/media/testimonial_image.png": "/react_live/static/media/testimonial_image.82ae2afbaa640a950658.png",
+    "static/media/Mental Development.png": "/react_live/static/media/Mental Development.ae546dc6ece903c521a4.png",
+    "index.html": "/react_live/index.html",
+    "main.34542476.css.map": "/react_live/static/css/main.34542476.css.map",
+    "main.d46f7246.js.map": "/react_live/static/js/main.d46f7246.js.map",
+    "787.4aad1aee.chunk.js.map": "/react_live/static/js/787.4aad1aee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34542476.css",
+    "static/js/main.d46f7246.js"
+  ]
+}
